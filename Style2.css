@@ -1,0 +1,102 @@
+body{
+ background-image: url("Background.JPG");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ margin: 0;
+ padding: 0;
+ font-family: 'Arial', serif;
+}
+.nav{
+ background-color: #171717;
+ color: #ffffff;
+ list-style: none;
+ text-align: right;
+ padding: 20px 0 20px 0;
+}
+.nav > li{
+ display: inline-block;
+ padding: 0 25px 0 25px;
+ font-size: 16px;
+}
+.nav > li > a{
+ text-decoration: none;
+ color: #f7f7f7;
+}
+.nav > li > a:hover {
+ color: #d54033;
+}
+.logo{
+ padding: 0 1135px 0 0;
+}
+.container{
+ position: relative;
+ margin: 4% 10% 5% 10% 
+}
+.background{
+ border-radius: 25px;
+ padding: 20px;
+}
+.Hotline{
+ position: relative;
+ margin: -39.8% 0 0 6%;
+}
+.Number{
+ position: reltive;
+ margin: 0 0 0 4.5%;
+}
+.Email{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.Webaddress{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.Address{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.Street{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.Social{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.Media{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.Windows{
+ position: relative;
+ margin: -39.8% 0 0 6%;
+ color: f7f7f7;
+}
+.Windowsimg{
+ position: relative;
+ margin: 0 0 0 7%;
+}
+.Mac{
+ position: relative;
+ margin: 0 0 0 6%;
+ color: f7f7f7;
+}
+.Macimg{
+ position: relative;
+ margin: 0 0 0 7%;
+}
+.Linux{
+ position: relative;
+ margin: 0 0 0 6%;
+ color: f7f7f7;
+}
+.Linuximg{
+ position: relative;
+ margin: 0 0 0 6.5%;
+}
+.Thanks{
+ position: relative;
+ margin: 3% 0 0 33.3%;
+ color: f7f7f7;
+}

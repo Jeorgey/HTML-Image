@@ -1,0 +1,90 @@
+body{
+ background-image: url("Background.JPG");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ margin: 0;
+ padding: 0;
+ font-family: 'Arial', serif;
+}
+.nav{
+ background-color: #171717;
+ color: #ffffff;
+ list-style: none;
+ text-align: right;
+ padding: 20px 0 20px 0;
+}
+.nav > li{
+ display: inline-block;
+ padding: 0 25px 0 25px;
+ font-size: 16px;
+}
+.nav > li > a{
+ text-decoration: none;
+ color: #f7f7f7;
+}
+.nav > li > a:hover {
+ color: #d54033;
+}
+.logo{
+ padding: 0 1135px 0 0;
+}
+.sunset{
+ border-radius: 25px;
+ padding: 20px;
+} 
+.container{
+ position: relative;
+ margin: 4% 10% 5% 10% 
+}
+.background{
+ border-radius: 25px;
+ padding: 20px;
+}
+.header{
+ position: relative;
+ margin: -73.55% 0 0 6%;
+}
+.paragraph{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.header2{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.paragraph2{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.header3{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.list{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.header4{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.paragraph3{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.header5{
+ position: relative;
+ margin: 0 0 0 6%;
+}
+.list2{
+ position: relative;
+ margin: 0 0 0 4.5%;
+}
+.header6{
+ position: relative;
+ margin: 0 0 0 -2.7%;
+}
+.paragraph4{
+ position: relative;
+ margin: 0 0 0 -4%;
+}
